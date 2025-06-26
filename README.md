@@ -167,7 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [mohitpandey32](https://github.com/mohitpandey32)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohit-pandey-02921a277/)
+- LinkedIn: [View](https://www.linkedin.com/in/mohit-pandey-02921a277/)
 - Email: pandeymohit998@gmail.com
 
 ## 🙏 Acknowledgments
